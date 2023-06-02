@@ -1,5 +1,4 @@
-**Advanced Generative Models Project
-**
+**Advanced Generative Models Project**
 
 This project focuses on the creation and practical application of advanced generative models, with a special emphasis on Convolutional Neural Networks (CNNs) and Generative Adversarial Networks (GANs). The aim of the project is not just to understand the theory behind these models, but to gain practical experience in implementing them.
 
